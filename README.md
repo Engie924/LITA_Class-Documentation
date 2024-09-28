@@ -15,3 +15,15 @@ The primary source of Data use here is data entry CSV file and the is an open so
    3. For Data Visualization
 - SQL - Structured Query Language for Quering of Data
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations
+At the initial phase of Data cleaning and preparations, wee performed the following actions:
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the Data to answer some questions about the data such as;
+- What is the overall sales trend
+- Which product is top selles
+- What are the products on peak sales?
