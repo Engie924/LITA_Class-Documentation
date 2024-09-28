@@ -42,3 +42,6 @@ This is whwere we include some basic lines of code or queries or even some of th
 SELECT * FROM TABLE1
 HWERE CONDITION = TRUE
 ```
+
+### Data Visualization
+---
