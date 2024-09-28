@@ -9,6 +9,9 @@ This project aims to efficiently and accurately input data into Excel spreadshee
 The primary source of Data use here is data entry CSV file and the is an open source data that is freely downloaded from an open source online such as Kaggle and existing spreadsheets.
 
 ### Tools Used
-- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- Microsoft Excel: [Download Here](https://www.microsoft.com)
+   1. For Data Cleaning
+   2. For Analysis
+   3. For Data Visualization
 - SQL - Structured Query Language for Quering of Data
 - GitHub for Portfolio Building
